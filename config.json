@@ -1,7 +1,7 @@
 {
-  "version": 59,
-  "sleep_s": 60,
-  "zero_in": 1,
+  "version": 61,
+  "sleep_s": 30,
+  "zero_in": 0,
   "span_in": 2.9,
   "zero_out": 0,
   "span_out": 100,

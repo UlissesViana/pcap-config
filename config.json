@@ -1,8 +1,8 @@
 {
-  "version": 208,
+  "version": 209,
   "sleep_s":30,
   "zero_in": 0.75,
-  "span_in": 4.6,
+  "span_in": 4.7,
   "zero_out": 0,
   "span_out": 100,
   "wifi_dbm": 11,

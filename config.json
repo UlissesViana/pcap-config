@@ -1,6 +1,6 @@
 {
-  "version": 259,
-  "sleep_s":120,
+  "version": 261,
+  "sleep_s":240,
   "zero_in": 1.0,
   "span_in": 2.5,
   "zero_out": 0,
